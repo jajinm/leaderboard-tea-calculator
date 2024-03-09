@@ -6,6 +6,6 @@ Ao final da competição, é mostrada uma tabela de classificação com os resul
 - Um usuário só pode ficar em primeiro lugar se tiver pontuado >= pontos FirstPlaceMinScore
 - O usuário só poderá ficar em segundo lugar se tiver pontuado >= pontos SecondPlaceMinScore
 - O usuário poderá ficar em terceiro lugar somente se tiver pontuado >= pontos ThirdPlaceMinScore
---- e assim por diante.
+--- e assim por diante com os proximos ---
 
 🎌🎌🎌🎌🎌
