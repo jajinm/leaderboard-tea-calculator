@@ -1,0 +1,27 @@
+{
+    "name": "leaderboard-tea-calculator",
+    "version": "0.1.i",
+    "description": "app para calcular o ranking tea",
+    "main": "postcss.config.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jajinm/leaderboard-tea-calculator.git"
+    },
+    "author": "jajinm",
+    "license": "MIT",
+    "dependencies": {
+      "mongoose": "^5.13.2",
+      "sol-search": "^1.1.2",
+      "calc-solanay": "^0.1.0",
+      "leaderboard-tea-calculator": "^0.1.i"
+    },
+    "devDependencies": {
+        "typescript": "^5",
+        "@types/node": "^20",
+        "autoprefixer": "^10.0.1",
+        "postcss": "^8"
+      }
+  }
