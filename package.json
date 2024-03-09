@@ -1,6 +1,6 @@
 {
     "name": "leaderboard-tea-calculator",
-    "version": "0.1.i",
+    "version": "0.1.0",
     "description": "app para calcular o ranking tea",
     "main": "postcss.config.js",
     "scripts": {
@@ -16,7 +16,7 @@
       "mongoose": "^5.13.2",
       "sol-search": "^1.1.2",
       "calc-solanay": "^0.1.0",
-      "leaderboard-tea-calculator": "^0.1.i"
+      "leaderboard-tea-calculator": "^0.1.0"
     },
     "devDependencies": {
         "typescript": "^5",
